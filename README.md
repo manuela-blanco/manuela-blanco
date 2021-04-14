@@ -4,7 +4,7 @@
 
 ##### I'm a brazilian programmer 💻 who likes board games, listen to music, watch movies and eat 🍝. 
 ##### I'm currently working as a software developer intern at Mobicare, a brazilian company that creates telecom solutions to internet providers. 📶
-##### I'm a undergraduate student at UNIRIO (Universidade Federal do Estado do Rio de Janeiro) pursuing my bachelor's degree in Information Systems.
+##### I'm an undergraduate student at UNIRIO (Universidade Federal do Estado do Rio de Janeiro) pursuing my bachelor's degree in Information Systems.
 ##### My favorite programming language is Java ❤️
 ##### I have experience working with Java, Python and Javascript. Also, I feel comfortable working with Linux environments. 
 ##### I'm very interested in Deep Learning and I was part of a research group at UNIRIO for 6 months. We worked with *Generative Adversarial Networks* (GANs) and the concept of beauty. I intend to write my final paper on this topic.
