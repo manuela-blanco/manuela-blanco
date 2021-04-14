@@ -1,6 +1,6 @@
 ### Hi, I'm Manuela 🌟
 
-<img src=""><img>
+<img src="https://www.programaria.org/wp-content/uploads/2016/11/tumblr-cachorro.gif"><img>
 
 ##### I'm a brazilian programmer 💻 who likes board games, listen to music, watch movies and eat 🍝. 
 ##### I'm currently working as a software developer intern at Mobicare, a brazilian company that creates telecom solutions to internet providers. 📶
