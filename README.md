@@ -7,7 +7,8 @@
 ##### I'm a undergraduate student at UNIRIO (Universidade Federal do Estado do Rio de Janeiro) pursuing my bachelor's degree in Information Systems.
 ##### My favorite programming language is Java ❤️
 ##### I have experience working with Java, Python and Javascript. Also, I feel comfortable working with Linux environments. 
-##### I'm very interested in Deep Learning and I was part of a research group for 6 months. I intend to write my final paper on this topic.
+##### I'm very interested in Deep Learning and I was part of a research group at UNIRIO for 6 months. I intend to write my final paper on this topic.
+##### Fun fact: I have a goal to be fluent in french. *J'adore voir la série Dix Pour Cent sur Netflix 🍿*
 
 <!--
 **manuela-blanco/manuela-blanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
