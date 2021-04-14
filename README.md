@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Manuela 🌟
+
+<img src="![image](https://user-images.githubusercontent.com/49649155/114639063-5e434000-9ca3-11eb-8c38-7e98d0189f8d.png)
+"><img>
 
 <!--
 **manuela-blanco/manuela-blanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
