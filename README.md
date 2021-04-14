@@ -2,7 +2,7 @@
 
 <img src="https://www.programaria.org/wp-content/uploads/2016/11/tumblr-cachorro.gif"><img>
 
-##### I'm a brazilian programmer 💻 who likes board games, listen to music, watch movies and eat 🍝. 
+##### I'm a brazilian programmer 💻 who likes board games, listening to music, watching movies and eating 🍝. 
 ##### I'm currently working as a software developer intern at Mobicare, a brazilian company that creates telecom solutions to internet providers. 📶
 ##### I'm an undergraduate student at UNIRIO (Universidade Federal do Estado do Rio de Janeiro) pursuing my bachelor's degree in Information Systems.
 ##### My favorite programming language is Java ☕ ❤️
