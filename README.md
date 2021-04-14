@@ -2,9 +2,11 @@
 
 <img src=""><img>
 
-### I'm a brazilian programmer 💻 who likes board games, listen to music, watch movies and eat 🍝. 
-### I'm currently working as a software developer intern at Mobicare, a brazilian company that creates telecom solutions to internet providers. 📶
-### I'm a undergraduate student at UNIRIO (Universidade Federal do Estado do Rio de Janeiro) pursuing my bachelor's degree in Information Systems. 
+##### I'm a brazilian programmer 💻 who likes board games, listen to music, watch movies and eat 🍝. 
+##### I'm currently working as a software developer intern at Mobicare, a brazilian company that creates telecom solutions to internet providers. 📶
+##### I'm a undergraduate student at UNIRIO (Universidade Federal do Estado do Rio de Janeiro) pursuing my bachelor's degree in Information Systems.
+##### My favorite programming language is Java ❤️
+##### I have experience working with Java, Python and Javascript. Also, I feel comfortable working with Linux environments. 
 
 <!--
 **manuela-blanco/manuela-blanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
